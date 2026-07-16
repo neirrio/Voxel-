@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Voxel Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![Voxel Logo](assets/logo.png)
 
 **Современный музыкальный плеер для Android с глобальным поиском и мульти-источниками**
 
